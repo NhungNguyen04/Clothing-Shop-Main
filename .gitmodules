@@ -1,0 +1,9 @@
+[submodule "Clothing-shop"]
+	path = Clothing-shop
+	url = https://github.com/NhungNguyen04/Clothing-shop
+[submodule "Clothing-shop-be"]
+	path = Clothing-shop-be
+	url = https://github.com/NhungNguyen04/Clothing-shop-be
+[submodule "Clothing-shop-mobile"]
+	path = Clothing-shop-mobile
+	url = https://github.com/NhungNguyen04/Clothing-shop-mobile
