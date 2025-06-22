@@ -1,6 +1,7 @@
 # 🛍️ Clothing Shop
 
 A full-featured online clothing store supporting both **web** and **mobile platforms**, allowing customers to browse and purchase products while enabling sellers to manage their stores. The project also explores AI-powered virtual try-on features.
+![Home Page Screenshot](./image.png)
 
 
 ## 🚀 Features
