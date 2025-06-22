@@ -9,7 +9,9 @@ A full-featured online clothing store supporting both **web** and **mobile platf
 - Browse and search clothing items
 - View detailed product pages with images
 - Add items to cart and place orders
+- Can complete payment using VNPAY
 - Manage profile and order history
+- Chatbot suggesting products on the platform
 
 ### 🛍️ Sellers
 - Register and manage shop profile
@@ -40,7 +42,8 @@ A full-featured online clothing store supporting both **web** and **mobile platf
 
 ## 🔗 Links
 
-- 🌍 Live Website: [https://nh-clothing.netlify.app](https://nh-clothing.netlify.app)
-- 💻 GitHub: [https://github.com/NhungNguyen04/Clothing-Shop-Main](https://github.com/NhungNguyen04/Clothing-Shop-Main)
+- Live Website: [https://nh-clothing.netlify.app](https://nh-clothing.netlify.app)
+- GitHub: [https://github.com/NhungNguyen04/Clothing-Shop-Main](https://github.com/NhungNguyen04/Clothing-Shop-Main)
+- Model VITON-HD: [Google Colab](https://colab.research.google.com/drive/1JgaSz55tvnLH7_almI0BR0T5KoL-Kc6H?usp=sharing)
 
 ---
