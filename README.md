@@ -2,8 +2,17 @@
 
 A full-featured online clothing store supporting both **web** and **mobile platforms**, allowing customers to browse and purchase products while enabling sellers to manage their stores. The project also explores AI-powered virtual try-on features.
 ![Home Page Screenshot](./image.png)
+---
+For Admin account: Email: admin@email.com, Password: 123123
+---
 
+## 🔗 Links
 
+- Live Website: [https://nh-clothing.netlify.app](https://nh-clothing.netlify.app)
+- GitHub: [https://github.com/NhungNguyen04/Clothing-Shop-Main](https://github.com/NhungNguyen04/Clothing-Shop-Main)
+- Model VITON-HD: [Google Colab](https://colab.research.google.com/drive/1JgaSz55tvnLH7_almI0BR0T5KoL-Kc6H?usp=sharing)
+
+---
 ## 🚀 Features
 
 ### 👤 Customers
@@ -39,12 +48,4 @@ A full-featured online clothing store supporting both **web** and **mobile platf
 | Database | PostgreSQL (via Prisma) |
 | AI Research | Python (Google Colab) |
 
----
 
-## 🔗 Links
-
-- Live Website: [https://nh-clothing.netlify.app](https://nh-clothing.netlify.app)
-- GitHub: [https://github.com/NhungNguyen04/Clothing-Shop-Main](https://github.com/NhungNguyen04/Clothing-Shop-Main)
-- Model VITON-HD: [Google Colab](https://colab.research.google.com/drive/1JgaSz55tvnLH7_almI0BR0T5KoL-Kc6H?usp=sharing)
-
----
