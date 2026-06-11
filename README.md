@@ -33,9 +33,9 @@ For Admin account: Email: admin@email.com, Password: 123123
 - Manage users and shops
 - Monitor system activity
 
-### 🤖 AI-Powered Virtual Try-On *(Research Phase)*
+### 🤖 AI-Powered Virtual Try-On
 - Simulate how clothes look on users using deep learning
-- Currently runs on Google Colab (not yet deployed to production)
+- Implemented using Google genai tool
 
 ---
 
@@ -47,6 +47,7 @@ For Admin account: Email: admin@email.com, Password: 123123
 | Mobile | React Native |
 | Backend | NestJS (REST API) |
 | Database | PostgreSQL (via Prisma) |
-| AI Research | Python (Google Colab) |
+| AI Virtual Try On | Google Gen ai |
+| Deployment | Docker, Google Cloud |
 
 
