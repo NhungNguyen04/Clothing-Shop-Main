@@ -7,3 +7,6 @@
 [submodule "Clothing-shop-mobile"]
 	path = Clothing-shop-mobile
 	url = https://github.com/NhungNguyen04/Clothing-shop-mobile
+[submodule "TryOnService"]
+	path = Try-on-service
+	url = https://github.com/NhungNguyen04/VirtualTryOnService
