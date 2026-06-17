@@ -9,6 +9,7 @@ For Admin account: Email: admin@email.com, Password: 123123
 
 ## 🔗 Links
 
+- Live Website (New! With Virtual Try On): [https://nh-clothing.xyz/](https://nh-clothing.xyz/)
 - Live Website: [https://nh-clothing.netlify.app](https://nh-clothing.netlify.app)
 - GitHub: [https://github.com/NhungNguyen04/Clothing-Shop-Main](https://github.com/NhungNguyen04/Clothing-Shop-Main)
 - Model VITON-HD: [Google Colab](https://colab.research.google.com/drive/1JgaSz55tvnLH7_almI0BR0T5KoL-Kc6H?usp=sharing)
